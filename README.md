@@ -1,3 +1,13 @@
+<h2?girlswear-ecommerce-react-js-jsxis</h2>
+<p><strong>girlswear-ecommerce-react-js-jsx</strong><p>is an ecommerce girls fashion App, coded without functions that enable it to operate actively as a real-time marketing application.</p> 
+<br>
+<img src="https://github.com/dr-stephen/girlswear-ecommerce-react-js-jsx/blob/main/src/assets/Screenshot.jpg" alt="screenshot" title="screenshot">
+<br>
+<p>The project lays down the some basic structures of e-commerce web application.</p>
+<br>
+<img src="https://github.com/dr-stephen/girlswear-ecommerce-react-js-jsx/blob/main/src/assets/Screenshot%202022-11-30%20at%2010-33-45%20React%20App.jpg" alt="screenshot" title="screenshot">
+<p>I hope the simplicity will help beginners in coding with React, Styled-Component, @mui, flexbox, css and active nav Links. You can clone and modify this project.</p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
