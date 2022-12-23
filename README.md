@@ -1,4 +1,3 @@
-<h2?girlswear-ecommerce-react-js-jsxis</h2>
 <p><strong>girlswear-ecommerce-react-js-jsx</strong><p>is an ecommerce girls fashion App, coded without functions that enable it to operate actively as a real-time marketing application.</p> 
 <br>
 <img src="https://github.com/dr-stephen/girlswear-ecommerce-react-js-jsx/blob/main/src/assets/Screenshot.jpg" alt="screenshot" title="screenshot">
