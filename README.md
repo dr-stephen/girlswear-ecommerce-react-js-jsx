@@ -1,5 +1,5 @@
 <p><strong>girlswear-ecommerce-react-js-jsx</strong></p>
-<p>is an ecommerce girls fashion website. In this project I coded with some basic structures of e-commerce web application.</p> 
+<p>is an ecommerce girls fashion website. In this project I coded with some basic structures of e-commerce web application. The technology I used include Styled-Component, @mui formerly-material-ui, flexbox, html, css and active nav Links.</p> 
 <br>
 <img src="https://github.com/dr-stephen/girlswear-ecommerce-react-js-jsx/blob/main/src/assets/Screenshot.jpg" alt="screenshot" title="screenshot">
 <br>
