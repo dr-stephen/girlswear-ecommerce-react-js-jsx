@@ -6,7 +6,7 @@
 <p>I built the web app without some functions (React Hooks) that should enable the website to operate actively as a real-time marketing application.</p>
 <br>
 <img src="https://github.com/dr-stephen/girlswear-ecommerce-react-js-jsx/blob/main/src/assets/Screenshot%202022-11-30%20at%2010-33-45%20React%20App.jpg" alt="screenshot" title="screenshot">
-<p>I hope the simplicity will help beginners in coding with React, Styled-Component, @mui, flexbox, css and active nav Links. You can clone and modify this project. You can also hook it up with exciting functions. Which way you programmatically twist and turn it is up to you. Happy hacking!!!</p>
+<p>I hope the simplicity will help beginners in coding with React, Styled-Component, @mui, flexbox, css and active nav Links. Is this a finished product? No! Not yet! You can clone and modify this project. Work-in-progress! You can also hook it up with exciting functions. Anyway you programmatically twist and turn this web app is up to you. Happy hacking!!!</p>
 
 # Getting Started with Create React App
 
